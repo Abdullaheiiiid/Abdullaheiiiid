@@ -8,15 +8,13 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+&nbsp; I am Senior
+- 🎓 &nbsp; Senior : Senior at Faculty of Engineering, Computer and Systems Department, Helwan University.
+- 🏅 &nbsp; Grade : Very Good ( 81% ).
+- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Sofware, and Web Development. 
+- 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/abdullaheiid) [Gmail](https://abdullaheid239@gmail.com)
 
 <br><br>
 
