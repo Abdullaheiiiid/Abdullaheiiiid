@@ -42,11 +42,7 @@
  
  ### <img src = "https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width=5%>  Other Experience
 
-<br> 
-<br>
-<br>
-
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <br>
 
