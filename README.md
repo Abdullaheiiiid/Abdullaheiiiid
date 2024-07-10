@@ -40,7 +40,7 @@
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
  
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Other Experience
+ ### <img src = "https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width=5%>  Other Experience
 
 <br> 
 <br>
