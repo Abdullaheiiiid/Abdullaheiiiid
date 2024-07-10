@@ -21,7 +21,7 @@
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 
 
-### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/embedded-systems3_2.gif" width=5%>  Embedded Systems
+### <img src = "https://cdn.dribbble.com/users/170045/screenshots/4078956/media/8946d032c3c72a37252bd0c74c5c8ff0.gif" width=5%>  Embedded Systems
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 
