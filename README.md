@@ -9,7 +9,7 @@
 
 <br>
 
-&nbsp; I am Senior
+&nbsp; I am interested in Embedded Systems, Web Development, and Graphic Design
 - 🎓 &nbsp; Senior : Senior at Faculty of Engineering, Computer and Systems Department, Helwan University.
 - 🏅 &nbsp; Grade : Very Good ( 81% ).
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Sofware, and Web Development. 
