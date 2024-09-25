@@ -19,7 +19,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/language.gif" width=5%> Programming languages
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,java,js,html,css,sql" />
+  </a>
+</p>
 
 ### <img src = "https://gifdb.com/images/high/processor-cpu-kawaii-art-7nm0o0e9a6jmfve1.webp" width=5%>  Embedded Systems
 
