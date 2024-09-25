@@ -148,7 +148,60 @@
 	
 <div>
   <p align="center">
-
+	<a href="https://github.com/Abdullaheiiiid/Abdullaheiiiid">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Abdullaheiiiid&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Embedded-Systems-Online-Diploma-KS">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Embedded-Systems-Online-Diploma-KS&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Machine-Learning-Topics-Implementations">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Machine-Learning-Topics-Implementations&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Green">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Green&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Store-Management-System ">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Store-Management-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Smart-home">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Smart-home&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Clinc-Managemnet-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Clinc-Managemnet-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Temperature-sensor">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Temperature-sensor&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Calculator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Calculator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/LCD-4-bit">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=LCD-4-bit&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/smart-fan-">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=smart-fan-&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Mouva-Platform-Social-Media-platform-">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Mouva-Platform-Social-Media-platform-&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Login-Sign-up-Form">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Login-Sign-up-Form&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Simple-Calculator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Simple-Calculator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/simple-cart">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=simple-cart&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/Bank-Management-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Bank-Management-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/counter-0-99---with-2-multiplexed-7-Segments---manaual">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=counter-0-99---with-2-multiplexed-7-Segments---manaual&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Abdullaheiiiid/counter-0-99---with-2-multiplexed-7-Segments---automatic">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=counter-0-99---with-2-multiplexed-7-Segments---automatic&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>
