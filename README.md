@@ -219,7 +219,7 @@
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Facebook.png" width=48px href="https://www.facebook.com/abdullaheiiiiid" />
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Instagram.png" width=48px href="https://www.instagram.com/abdullah.eiid" />
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Behance.png" width=48px href="https://www.behance.net/abdullaheiid" />
-	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Discord.png" width=48px href="https://www.linkedin.com/in/abdullaheiid" />
+	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Discord.png" width=48px href="https://discordapp.com/users/abdullaheiid" />
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Whatsapp.png" width=48px href="https://wa.me/201129563106" />
     </a>
 </p>
