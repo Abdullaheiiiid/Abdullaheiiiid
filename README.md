@@ -216,12 +216,18 @@
 <p align="center">
   <a>
      <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/LinkedIn.png" width=48px href="https://www.linkedin.com/in/abdullaheiid" />
+  </a ><a>
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Facebook.png" width=48px href="https://www.facebook.com/abdullaheiiiiid" />
+	</a ><a>
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Instagram.png" width=48px href="https://www.instagram.com/abdullah.eiid" />
+		</a ><a>
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Behance.png" width=48px href="https://www.behance.net/abdullaheiid" />
+			</a ><a>
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Discord.png" width=48px href="https://discordapp.com/users/abdullaheiid" />
+				</a ><a>
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Whatsapp.png" width=48px href="https://wa.me/201129563106" />
-    </a>
+					</a >
+  
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
