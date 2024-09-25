@@ -81,8 +81,7 @@
  ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/OS.gif" width=5%>  Operating Systems
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
-     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
     </a>
 </p>
 
