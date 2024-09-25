@@ -22,8 +22,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,java,js,html,css" />
-    <img style="margin-left:20%;" src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/vhdl1.png" width=48px hight=48px />
-  </a>
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/vhdl1.png" width=48px hight=48px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />  </a>
 </p>
 
 ### <img src = "https://gifdb.com/images/high/processor-cpu-kawaii-art-7nm0o0e9a6jmfve1.webp" width=5%>  Embedded Systems
