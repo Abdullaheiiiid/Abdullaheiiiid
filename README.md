@@ -92,8 +92,7 @@
  ### <img src = "https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width=5%>  Other Experience
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
-     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,xd" />
     </a>
 </p>
 
