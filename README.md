@@ -27,7 +27,17 @@
 </p>
 
 ### <img src = "https://gifdb.com/images/high/processor-cpu-kawaii-art-7nm0o0e9a6jmfve1.webp" width=5%>  Embedded Systems
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,eclipse,arduino" />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/proteus.png" width=48px hight=48px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/avr.png" width=48px hight=48px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/keil.png" width=48px hight=48px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/stm32cubeide.png" width=48px hight=48px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/arm.png" width=48px hight=48px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/rtos.png" width=48px hight=48px />
+   </a>
+</p>
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/Front_End.gif" width=5%>  Frontend Development
 
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/Web%20Development.gif" width=5%>  backend Development
