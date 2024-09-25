@@ -40,18 +40,59 @@
 </p>
 
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/Front_End.gif" width=5%>  Frontend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    </a>
+</p>
 
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/Web%20Development.gif" width=5%>  backend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+    </a>
+</p>
 
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/ai.gif" width=5%>  AI
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+    </a>
+</p>
 
  ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/Software_Tools.gif" width=5%>  Software & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+    </a>
+</p>
 
  ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/IDEs.gif" width=5%> IDEs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+    </a>
+</p>
 
  ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/OS.gif" width=5%>  Operating Systems
- 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+    </a>
+</p>
+
  ### <img src = "https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.gif" width=5%>  Other Experience
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+    </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
