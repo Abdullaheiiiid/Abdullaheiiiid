@@ -149,7 +149,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/Abdullaheiiiid/Abdullaheiiiid">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Abdullaheiiiid&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Abdullaheiiiid&theme=tokyonight" alt="GitHub Stats" height = 250px/>
     	</a>
 	  <a href="https://github.com/Abdullaheiiiid/Embedded-Systems-Online-Diploma-KS">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullaheiiiid&repo=Embedded-Systems-Online-Diploma-KS&theme=tokyonight" alt="GitHub Stats" />
