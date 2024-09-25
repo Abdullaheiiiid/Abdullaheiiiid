@@ -42,7 +42,7 @@
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/Front_End.gif" width=5%>  Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,CSS,bootstrap,qt,codepen" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,qt,codepen" />
     </a>
 </p>
 
@@ -57,8 +57,8 @@
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/ai.gif" width=5%>  AI
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
-     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+    <img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow,sklearn" />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/spyder.png" width=48px hight=48px />
     </a>
 </p>
 
@@ -74,7 +74,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,anaconda" />
-     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
+     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/keil.png" width=48px hight=48px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/stm32cubeide.png" width=48px hight=48px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/netbeans.png" width=48px hight=48px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/spyder.png" width=48px hight=48px />
     </a>
 </p>
 
