@@ -93,6 +93,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,xd" />
+     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/corel.png" width=48px hight=48px />
     </a>
 </p>
 
