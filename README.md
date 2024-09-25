@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,java,js,html,css" />
-    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/vhdl1.png" width=100px hight=100px />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/vhdl1.png" width=50px hight=50px />
   </a>
 </p>
 
