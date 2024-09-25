@@ -214,7 +214,7 @@
 ## <b> Let's Connect..!</b>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
      <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/LinkedIn.png" width=48px href="https://www.linkedin.com/in/abdullaheiid" />
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Facebook.png" width=48px href="https://www.facebook.com/abdullaheiiiiid" />
 	  <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/Instagram.png" width=48px href="https://www.instagram.com/abdullah.eiid" />
