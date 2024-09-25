@@ -21,8 +21,8 @@
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/language.gif" width=5%> Programming languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,java,js,html,css,sql" />
-    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/vhdl1.png" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,java,js,html,css" />
+    <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/vhdl1.png" width=5% />
   </a>
 </p>
 
