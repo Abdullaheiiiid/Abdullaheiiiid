@@ -21,7 +21,7 @@
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/language.gif" width=5%> Programming languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,java,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py,java,js,html,css,sqlite" />
     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/vhdl1.png" width=48px hight=48px />
     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />  </a>
 </p>
@@ -42,7 +42,7 @@
 ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/Front_End.gif" width=5%>  Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,CSS,bootstrap,qt,codepen" />
     </a>
 </p>
 
@@ -73,7 +73,7 @@
  ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/IDEs.gif" width=5%> IDEs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,anaconda" />
      <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
     </a>
 </p>
