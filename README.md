@@ -65,8 +65,6 @@
  ### <img src = "https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/gifs/Software_Tools.gif" width=5%>  Software & Tools
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=js" />
-     <img src="https://github.com/Abdullaheiiiid/Abdullaheiiiid/blob/master/Images/image/sql1.png" width=48px hight=48px />
     </a>
 </p>
 
