@@ -9,9 +9,9 @@
 
 <br>
 
-&nbsp; I am interested in Embedded Systems, Web Development, AI, and Graphic Design
-- 🎓 &nbsp; Senior : Senior at Faculty of Engineering, Computer and Systems Department, Helwan University.
-- 🏅 &nbsp; Grade : Very Good ( 82.5% ).
+&nbsp; I am interested in Web Development, AI, Embedded Systems, and Graphic Design
+- 🎓 &nbsp; Graduate : Gratuated from Faculty of Engineering, Computer and Systems Department, Helwan University.
+- 🏅 &nbsp; Grade : Grade: 83.69% (With Honors).
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Sofware, Machine Learning, and Web Development. 
 - 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/abdullaheiid) [Gmail](https://abdullaheid239@gmail.com)
 
