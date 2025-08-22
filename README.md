@@ -12,7 +12,9 @@
 &nbsp; I am interested in Web Development, AI, Embedded Systems, and Graphic Design
 - 🎓 &nbsp; Graduate : Gratuated from Faculty of Engineering, Computer and Systems Department, Helwan University.
 - 🏅 &nbsp; Grade : Grade: 83.69% (With Honors).
-- 📫 &nbsp; How to reach me: <span color = "cyan">[Linkedin](https://www.linkedin.com/in/abdullaheiid) [Gmail](https://abdullaheid239@gmail.com)</span>
+- 📫 &nbsp; How to reach me:
+<a href="https://www.linkedin.com/in/abdullaheiid" style="text-decoration: none; color: #00bfff;">LinkedIn</a>
+<a href="mailto:abdullaheid239@gmail.com" style="text-decoration: none; color: #00bfff;">Gmail</a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
